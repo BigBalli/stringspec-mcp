@@ -1,0 +1,15 @@
+{
+  "name": "stringspec",
+  "description": "The StringSpec plugin: lab-measured tennis string data in Claude.",
+  "owner": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com"
+  },
+  "plugins": [
+    {
+      "name": "stringspec",
+      "source": "./",
+      "description": "Search, compare and get recommendations from lab measurements of nearly 800 tennis strings, through the StringSpec MCP server."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stringspec": {
+      "type": "http",
+      "url": "https://stringspec.com/mcp"
+    }
+  }
+}
