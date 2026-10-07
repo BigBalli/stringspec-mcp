@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.stringspec/mcp",
+  "title": "StringSpec",
+  "description": "Lab measurements of nearly 800 tennis strings: search, compare and get recommendations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://stringspec.com/connect/",
+  "repository": {
+    "url": "https://github.com/BigBalli/stringspec-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://stringspec.com/assets/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://stringspec.com/mcp"
+    }
+  ]
+}
