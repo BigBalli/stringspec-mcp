@@ -1,6 +1,7 @@
 {
   "name": "stringspec",
   "displayName": "StringSpec",
+  "icon": "./assets/icon-512.png",
   "version": "1.0.0",
   "description": "Lab-measured tennis string data in Claude: search, look up, compare and get recommendations from stiffness, tension loss, energy return and spin measurements of nearly 800 strings, through the StringSpec MCP server, plus a skill that knows how to read the numbers.",
   "author": {
@@ -13,5 +14,13 @@
   "privacyPolicyUrl": "https://stringspec.com/privacy/",
   "supportUrl": "https://stringspec.com/connect/",
   "license": "MIT",
-  "keywords": ["tennis", "strings", "racquet", "restring", "tennis-elbow", "sports", "equipment"]
+  "keywords": [
+    "tennis",
+    "strings",
+    "racquet",
+    "restring",
+    "tennis-elbow",
+    "sports",
+    "equipment"
+  ]
 }
